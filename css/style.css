@@ -5,6 +5,59 @@ body {
 
 	}
 
+nav ul {
+
+	list-style:none; 
+	padding:0;
+
+
+
+
+
+
+		}
+
+
+
+
+
+
+
+nav li 		{
+
+		float: left;
+		text-align:center;
+		width: 33.33%;
+
+
+
+
+
+			}
+
+nav a{
+
+
+	color:black;
+	text-decoration:none;
+
+	}
+
+nav a:hover {
+
+		text-decoration: underline;
+		
+
+
+
+
+			}
+
+
+
+
+
+
 h1 {
 
 		text-align: center;
@@ -29,4 +82,6 @@ h1 {
 
 
 	}
+
+
 
